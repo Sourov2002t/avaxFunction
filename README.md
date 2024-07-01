@@ -49,7 +49,7 @@ utilize Remix or Hardhat with parameters for name, symbol, decimals, and startin
 
    3. Copy and Paste the Contract Code
 
-      * Copy the following Solidity code ( ) for the 'Bitcoin' ERC20 token contract .
+      * Copy the following Solidity code ( https://github.com/Sourov2002t/avaxFunction/blob/main/token.sol ) for the 'Bitcoin' ERC20 token contract .
 
 
    4. Compile the Contract
@@ -123,9 +123,9 @@ By following these steps, you can deploy, interact with, and manage the `Bitcoin
 
   => Sourov Kumar Nandi
   
-  Github   : 
+  Github   :  https://github.com/Sourov2002t
 
-  LinkedIn :
+  LinkedIn : https://www.linkedin.com/in/sourov-kumar-nandi-77292924b
 
 # LICENSE :
 
