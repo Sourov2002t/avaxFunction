@@ -129,4 +129,4 @@ By following these steps, you can deploy, interact with, and manage the `Bitcoin
 
 # LICENSE :
 
-This Project is licensed under the MIT License - see the link ( ) for details.
+This Project is licensed under the MIT License - see the link ( https://github.com/Sourov2002t/avaxFunction/blob/main/LICENSE ) for details.
