@@ -22,8 +22,8 @@ contract Bitcoin is ERC20 {
     }
 
     // Mint new tokens, callable only by the owner
-    function mintTokens(address recipient, uint256 amount) public {
-        _mint(recipient, amount);
+    function mintTokens(address you, uint256 amount) public {
+        _mint(you, amount);
     }
 
     // Burn tokens from the caller's balance
@@ -32,8 +32,8 @@ contract Bitcoin is ERC20 {
     }
 
     // Transfer tokens from caller to another address
-    function transferTokens(address recipient, uint256 amount) public returns (bool) {
-        _transfer(msg.sender, recipient, amount);
+    function transferTokens(address you, uint256 amount) public returns (bool) {
+        _transfer(msg.sender, you, amount);
         return true;
     }
 }
